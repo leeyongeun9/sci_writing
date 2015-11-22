@@ -18048,3 +18048,115 @@ The Last V Value is : 27.9845
 The Last V Value is : 26.4432
 The Last V Value is : 23.6001
 The Last V Value is : 26.9636
+The Last V Value is : 29.6692
+The Last V Value is : 31.1655
+The Last V Value is : 30.2801
+The Last V Value is : 30.8987
+The Last V Value is : 29.0804
+The Last V Value is : 30.7565
+The Last V Value is : 29.1378
+The Last V Value is : 32.6879
+The Last V Value is : 26.2307
+The Last V Value is : 31.4317
+The Last V Value is : 33.9366
+The Last V Value is : 27.7099
+The Last V Value is : 29.2083
+The Last V Value is : 29.5218
+The Last V Value is : 32.694
+The Last V Value is : 29.3372
+The Last V Value is : 23.8138
+The Last V Value is : 31.1458
+The Last V Value is : 32.2379
+The Last V Value is : 26.6489
+The Last V Value is : 26.6948
+The Last V Value is : 29.3273
+The Last V Value is : 26.0277
+The Last V Value is : 35.6302
+The Last V Value is : 20.282
+The Last V Value is : 32.1301
+The Last V Value is : 34.9512
+The Last V Value is : 32.616
+The Last V Value is : 28.887
+The Last V Value is : 22.9493
+The Last V Value is : 32.5965
+The Last V Value is : 21.057
+The Last V Value is : 34.296
+The Last V Value is : 28.2519
+The Last V Value is : 29.8529
+The Last V Value is : 31.0294
+The Last V Value is : 33.149
+The Last V Value is : 27.5544
+The Last V Value is : 27.8681
+The Last V Value is : 23.4436
+The Last V Value is : 33.2919
+The Last V Value is : 31.1955
+The Last V Value is : 30.7886
+average final V value : 29.1457
+total change time : 139.04
+
+
+Threshold (S, V) : (5, 19.5)
+The Last V Value is : 30.2663
+The Last V Value is : 26.042
+The Last V Value is : 28.2366
+The Last V Value is : 30.6496
+The Last V Value is : 32.1326
+The Last V Value is : 34.2949
+The Last V Value is : 31.6404
+The Last V Value is : 28.67
+The Last V Value is : 30.5663
+The Last V Value is : 27.3594
+The Last V Value is : 34.6699
+The Last V Value is : 31.306
+The Last V Value is : 28.0133
+The Last V Value is : 32.1828
+The Last V Value is : 32.591
+The Last V Value is : 25.2304
+The Last V Value is : 27.1448
+The Last V Value is : 28.6017
+The Last V Value is : 28.1055
+The Last V Value is : 28.6083
+The Last V Value is : 25.4606
+The Last V Value is : 26.0365
+The Last V Value is : 28.0288
+The Last V Value is : 33.6545
+The Last V Value is : 27.0854
+The Last V Value is : 25.6671
+The Last V Value is : 26.2569
+The Last V Value is : 29.2273
+The Last V Value is : 32.8401
+The Last V Value is : 31.9518
+The Last V Value is : 22.6314
+The Last V Value is : 28.7533
+The Last V Value is : 28.9513
+The Last V Value is : 24.7166
+The Last V Value is : 25.4373
+The Last V Value is : 25.8877
+The Last V Value is : 24.5263
+The Last V Value is : 28.7042
+The Last V Value is : 24.5508
+The Last V Value is : 27.9526
+The Last V Value is : 29.8029
+The Last V Value is : 32.3223
+The Last V Value is : 34.4045
+The Last V Value is : 24.4502
+The Last V Value is : 27.1092
+The Last V Value is : 33.6232
+The Last V Value is : 33.5381
+The Last V Value is : 24.0449
+The Last V Value is : 26.2916
+The Last V Value is : 29.8538
+average final V value : 28.8015
+total change time : 133.12
+
+
+Threshold (S, V) : (5.5, 19.5)
+The Last V Value is : 34.2266
+The Last V Value is : 33.1832
+The Last V Value is : 28.3307
+The Last V Value is : 20.9962
+The Last V Value is : 28.8768
+The Last V Value is : 28.4457
+The Last V Value is : 30.0934
+The Last V Value is : 24.9823
+The Last V Value is : 30.4809
